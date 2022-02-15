@@ -39,7 +39,11 @@ Se você quiser contribuir porfavor sinta-se livre :heart:.
 |![Unitel](https://www.unitel.ao/wp-content/themes/unitel/assets/img/wsu/logo_unitel.svg) | Unitel | Unitel, the largest mobile operator in Angola. An Angolan company, an example of success, a reason for national pride | https://www.unitel.ao | Javascript, PHP, SQL, Java (probably), C#, Python (probably) | Angola |
 |![Xbytes Angola](https://media-exp1.licdn.com/dms/image/C4D0BAQGNjifLQUlzdA/company-logo_200_200/0/1609873291661?e=1637193600&v=beta&t=b75HT-0KBZU2b0-h4Humnzg8b7ud9tSTCqUjzugu8VI) | Xbytes Soluções | Xbytes Soluções is an Angolan digital marketing and software development agency | https://xbytessolutions.com/ | Wordpress, Javascript, PHP, Laravel (probably) | Angola |
 |![Zukese](https://media-exp1.licdn.com/dms/image/C4D0BAQFMICb1h5Po4g/company-logo_200_200/0/1616316719430?e=1637193600&v=beta&t=MxfZM_s33FU0iWJu4ymSZMTMswJHXdF0e1TsnsSN9I0) | ZUKESE | ZUKESE - Tech & Innovation, is an Angolan lean startup with the mission to support and participate in driving the process of Digital and Technological transformation in Angola by creating digital, safe, simple and convenient solutions | https://zukese.com/ | Unknown | Angola |
-|![INOKRI](https://www.f6s.com/content-resource/profiles/2554995_original.jpg) | iNOKRI | INOKRI - Soluções Inteligentes - We develop our own software products, for customers and partners, always looking for improvements as new technologies evolve | https://inokri.com/ |C#,Flutter,Swift,SQL | Angola |
+|![INOKRI](https://www.f6s.com/content-resource/profiles/2554995_original.jpg) | INOKRI | INOKRI - Soluções Inteligentes - We develop our own software products, for customers and partners, always looking for improvements as new technologies evolve | https://inokri.com/ |.NET C#,Flutter,Swift,SQL | Angola |
+|![INFRASAT](http://www.infrasat.co.ao/wp-content/uploads/2016/08/logo_C.png) |INFRASAT | INFRASAT-Comunicação sem limites-INFRASATis a dynamic company, market leader in Angola in the satellite telecommunications sector.
+We are a responsible company that values ​​social relations and the well-being of our fellow citizens.
+We maintain an active social policy and innovate our products to suit the needs of our population.
+ | http://www.infrasat.co.ao/ |-NET C#,Kotlin,MS SQL Server,JavaScript | Angola |
 ## Note:
 
 - ***Information taken from Linkedin, Jobartis, their websites, and some developers opinions.***
