@@ -46,6 +46,5 @@ Se você quiser contribuir porfavor sinta-se livre :heart:.
 |![KIAMISOFT](https://www.kiamisoft.ao/images/kiami_logotipo.svg) |KIAMISOFT | Kiamisfot-A Tecnologia que fala a sua língua-É uma Software House angolana, constituída por profissionais com vários anos de experiência no desenvolvimento de software em diversas plataformas..| https://www.kiamisoft.ao/ |.NET C#,MS SQL Server,Angular | Angola |
 ## Note:
 
-- ***Information taken from Linkedin, Jobartis, their websites, and some developers opinions.***
-- ***Some companies I'm not going to show due to lack of information.***
+- ***Informations taken from Linkedin, Jobartis, their websites, and some developers feedback.***
 
