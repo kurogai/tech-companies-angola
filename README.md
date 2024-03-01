@@ -44,6 +44,7 @@ Se você quiser contribuir porfavor sinta-se livre :heart:.
 |![INFRASAT](http://www.infrasat.co.ao/wp-content/uploads/2016/08/logo_C.png) |INFRASAT | INFRASAT-Comunicação sem limites-INFRASAT is a dynamic company, market leader in Angola in the satellite telecommunications sector.| http://www.infrasat.co.ao/ |.NET C#,Kotlin,MS SQL Server,JavaScript | Angola |
 |![Musickool](https://musickool.ao/ao/assets/image/logo.png) | Musickool |Musickool é o local ideal para ouvires e comprares músicas dos cantores favoritos. É uma plataforma digital de streaming de músicas angolanas| https://musickool.ao/ao/ |PHP, Laravel, Flutter, SQL, Angular | Angola |
 |![KIAMISOFT](https://www.kiamisoft.ao/images/kiami_logotipo.svg) |KIAMISOFT | Kiamisfot-A Tecnologia que fala a sua língua-É uma Software House angolana, constituída por profissionais com vários anos de experiência no desenvolvimento de software em diversas plataformas..| https://www.kiamisoft.ao/ |.NET C#,MS SQL Server,Angular | Angola |
+|![Evoluim](https://evolium.ao/assets/image/logo.png) |Evoluim | A Evoluim é uma empresa angolana apaixonada por tecnologia, dedicada ao desenvolvimento de software e design inovador.| https://evolium.ao/ |PHP, Laravel, Flutter, SQL, Angular| Angola |
 ## Note:
 
 - ***Informations taken from Linkedin, Jobartis, their websites, and some developers feedback.***
